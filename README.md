@@ -23,6 +23,22 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CarlosP1006/CarlosP1006/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CarlosP1006/count.svg?"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.gifer.com/40OU.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@crawleybr8349" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -33,20 +49,6 @@
   <a href="dinosauroxd9@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/40OU.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/CarlosP1006/CarlosP1006/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/CarlosP1006/count.svg?"  />
 </div>
 
 ###
